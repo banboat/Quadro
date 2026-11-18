@@ -1,0 +1,5 @@
+build/
+*.dmg
+.DS_Store
+__pycache__/
+icon-preview.jpg
